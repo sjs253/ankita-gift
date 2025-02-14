@@ -1,21 +1,22 @@
-﻿body{margin:0;padding:0;background:#FAF0E6;font-size:12px;overflow:auto}
+﻿body{margin:0;padding:0;font-size:12px;overflow:auto;background-color: #ade8f4;}
 #mainDiv{width:100%;height:100%}
 #loveHeart{float:left;width:670px;height:625px}
 #garden{width:100%;height:100%}
 #elapseClock{text-align:right;font-size:18px;margin-top:10px;margin-bottom:10px}
-#words{font-family:"sans-serif";width:500px;font-size:24px;color:#8B0000}
+#words{font-family:"sans-serif";width:500px;font-size:24px;color:#1B3B6F}
 #messages{display:none;text-align: center;font-size: 30px}
-#elapseClock .digit{font-family:"digit";font-size:40px;text-align: center;color:#F08080}
-#loveu{padding:5px;font-size:22px;margin-top:80px;margin-right:120px;text-align:right;display:none;color: #8B0000;}
+#elapseClock .digit{font-family:"digit";font-size:40px;text-align: center;color:#1C7293}
+#loveu{padding:5px;font-size:22px;margin-top:80px;margin-right:120px;text-align:right;display:none;color: #1B3B6F;}
 #loveu .signature{margin-top:10px;font-size:20px;font-style:italic}
 #clickSound{display:none}
-#code{float:left;width:440px;height:400px;color:#8B0000;font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";font-size:12px;margin-top:50px}
+#code{float:left;width:440px;height:400px;color:#1B3B6F;font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";font-size:12px;margin-top:50px}
 #code .string{color:#2a36ff}
-#code .keyword{color:#7f0055;font-weight:bold}
+#code .keyword{color:#065A82;font-weight:bold}
 #code .placeholder{margin-left:15px}#code .space{margin-left:7px}
-#code .comments{color:#F08080}
+#code .comments{color:#1C7293}
 #copyright{margin-top:10px;text-align:center;width:100%;color:#666}
 #errorMsg{width:100%;text-align:center;font-size:24px;position:absolute;top:100px;left:0}
 #copyright a{color:#666}
-#icon{font-size: 48px;color:#8B0000;margin: 50 px; align-content: center;}
+#icon{font-size: 48px;color:#1B3B6F;margin: 50 px; align-content: center;}
+#icon2{font-size: 20px;color:#ade8f4;margin: 50 px; align-content: center;}
 #heartspan{align-content: center;text-align: center;margin: 20px;}
